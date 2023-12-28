@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "playerlisthead",
+  "version": "${version}",
+  "name": "Player List Heads",
+  "description": "This client mod adds player heads to the player list.\nThis makes it easier to separate people in the player list and looks very nice.",
+  "authors": ["_PrometheuZ_"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/player-list-heads/",
+    "repo": "https://github.com/epime/Player List Heads"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/playerlistheads/icon.png",
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "playerlistheads.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
