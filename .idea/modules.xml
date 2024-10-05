@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayerListHeads.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayerListHeads.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayerListHeads.test.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayerListHeads.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Player_List_Heads.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Player_List_Heads.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Player_List_Heads.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Player_List_Heads.test.iml" />
     </modules>
